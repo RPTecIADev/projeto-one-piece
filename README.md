@@ -3,13 +3,6 @@
 <p align="center">
   <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250813211750&path-prefix=pt"
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
 ---
 
 ## 🌊 Sobre o Projeto
@@ -28,11 +21,11 @@ Este projeto é uma **landing page imersiva** baseada no universo de One Piece. 
 ## 🛠 Tecnologias Utilizadas
 
 <table align="center">
-  <tr>
-    <td align="center"><b>HTML5</b><br><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)" width="40" height="40"></td>
-    <td align="center"><b>CSS3</b><br><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)" width="40" height="40"></td>
-    <td align="center"><b>JavaScript</b><br><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" width="40" height="40"></td>
-  </tr>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 </table>
 
 ---
