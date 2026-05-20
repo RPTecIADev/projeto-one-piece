@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250813211750&path-prefix=pt"
 </p>
----
 
 ## 🌊 Sobre o Projeto
 
