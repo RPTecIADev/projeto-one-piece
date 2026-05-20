@@ -1,7 +1,7 @@
 # <p align="center">🏴‍☠️ Projeto One Piece - RPTecIADev 🏴‍☠️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Navegando+pela+Grand+Line+do+Código;Interface+Inspirada+no+Anime;Desenvolvido+por+Rafael+Rodrigues;Dominando+o+Frontend+com+Haki/>
+  <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1000?cb=20250813211750&path-prefix=pt"
 </p>
 
 <p align="center">
