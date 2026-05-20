@@ -16,7 +16,7 @@
 
 Este projeto é uma **landing page imersiva** baseada no universo de One Piece. O objetivo foi criar uma experiência de usuário (UX) fluida, utilizando técnicas avançadas de manipulação de DOM para alternar entre personagens, alterando dinamicamente o fundo, as informações e a estética visual da página.
 
-[Página] (https://rpteciadev.github.io/projeto-one-piece/)
+[Página](https://rpteciadev.github.io/projeto-one-piece/)
 
 ### 🚀 Funcionalidades Principais
 *   **Troca de Personagens:** Seleção interativa que altera o estado visual da aplicação.
